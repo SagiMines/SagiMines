@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently looking for my first opportunity to work in **web development**
 
-- 👯 I continue to learn and develop my skills in **React & Node.js**
+- 🌱 I continue to learn and develop my skills in **React & Node.js**
 
-- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sagimines.vercel.app/](https://sagimines.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sagimines.vercel.app/)
 
-- 📫 How to reach me **sagi1236@gmail.com**
+- 📫 How to reach me [sagi1236@gmail.com](sagi1236@gmail.com)
 
-- ⚡ Fun fact **I am also a personal trainer and a sport addict**
+- ⚡ Fun fact **I'm also a personal trainer and a sport addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

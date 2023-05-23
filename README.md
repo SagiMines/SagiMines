@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sagimines.vercel.app/)
 
-- 📫 How to reach me [sagi1236@gmail.com](sagi1236@gmail.com)
+- 📫 How to reach me **sagi1236@gmail.com**
 
 - ⚡ Fun fact **I'm also a personal trainer and a sport addict**
 
